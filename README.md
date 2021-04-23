@@ -36,4 +36,4 @@ Starts server, will need to kill and run again on change.\
 Hit localhost:9000 to test
 -----------------------------
 
-# after env is working rever to TODO.md
+# after env is working rever to TODO.pdf for your instructions!
