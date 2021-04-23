@@ -4,7 +4,7 @@
 
 as well as changing directories 
 
-to src/server and running npm i again
+to src/server and running npm i again (there are 2 package.json)
 
 # PLEASE READ OR YOU WILL BE CONFUSED ON HOW TO RUN TS
 
