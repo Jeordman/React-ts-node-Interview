@@ -1,3 +1,5 @@
+## fork and clone this repo before working on it
+
 # PLEASE READ OR YOU WILL BE CONFUSED ON HOW TO RUN TS
 
 ### `CUSTOM DEV -- LOOK HERE`
@@ -25,3 +27,8 @@ You will also see any lint errors in the console.
 
 Starts server, will need to kill and run again on change.\
 Hit localhost:9000 to test
+
+### run `npm i` -->\
+as well as changing directories to src/server and running npm i again
+
+# after env is working rever to TODO.md
